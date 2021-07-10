@@ -35,3 +35,7 @@
 <a href="https://github.com/Pavegliobruno/Videogames" ><img align="center" src="https://res.cloudinary.com/juancereceda/image/upload/v1625069266/Screen_Shot_2021-06-30_at_13.07.11_qhscz9.png" width="500" /></a>
 
 #### [Link to Deploy](https://juancereceda-movies.vercel.app/)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancereceda)](https://github.com/anuraghazra/github-readme-stats)
+
