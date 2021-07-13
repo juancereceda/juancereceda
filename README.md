@@ -9,9 +9,9 @@
 <a href="mailto: juanmcereceda@gmail.com"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="Email" height="30"/></a>
 
 ### 📍 **Skills**
-
+<code>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="35"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="35"/></a>Javascript </code>
   <a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"/></a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" > <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html5" height="35"/></a>
 <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="35"/></a>
