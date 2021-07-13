@@ -18,8 +18,8 @@
   <code><a href="https://nodejs.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png" alt="nodejs" height="35"/></a>NodeJS</code>
   <code><a href="https://expressjs.com"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" height="35"/></a>ExpressJS</code>
   <code><a href="https://www.postgresql.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="30"/></a>PostgreSQL</code>
- <code><a href="https://www.mongodb.com/"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="35"/></a>
-</p>MongoDB</code>
+ <code><a href="https://www.mongodb.com/"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="35"/></a>MongoDB</code>
+</p>
 
 ### 📍 **My projects**
 
