@@ -1,7 +1,11 @@
 # Hey there! 👋 I'm Juan Martin Cereceda 👨‍💻
 
-### I'm an emphatic, proactive, responsible, social and hard worker full stack developer from Argentina. 
-### I studied at Henry's Bootcamp, where we learned the PERN stack. Now i find myself learning new softwares such as MongoDB, React Native and TypeScript.
+<p align="justify">
+ I'm an emphatic,proactive, responsible, social and hard worker full stack developer from Argentina.
+</p>
+<p align="justify">
+I studied at Henry's Bootcamp, where we learned the PERN stack and now i find myself learning new softwares such as MongoDB, React Native and TypeScript
+</p>
 
 ### 📍 **Contact**
 
