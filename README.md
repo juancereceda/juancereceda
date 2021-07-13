@@ -5,7 +5,7 @@
 ### 📍 **Contact**
 
 <a href="https://www.linkedin.com/in/juancereceda/" > <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a>
-<a href="https://drive.google.com/file/d/1K9N75k6Mth94CezcTJVb4G9cFbRhK--V/view?usp=sharing"> <img src="https://image.flaticon.com/icons/png/512/3789/3789852.png" alt="CV" height="30"/></a>
+<a href="https://drive.google.com/file/d/13rsdXxbL2m69BTQRaHot5d8mSzvcjsy6/view?usp=sharing"> <img src="https://image.flaticon.com/icons/png/512/3789/3789852.png" alt="CV" height="30"/></a>
 <a href="mailto: juanmcereceda@gmail.com"> <img src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="Email" height="30"/></a>
 
 ### 📍 **Skills**
