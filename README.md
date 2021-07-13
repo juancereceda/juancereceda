@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Juan Martin Cereceda 👨‍💻
+<h1 align='center'> Hey there! 👋 I'm Juan Martin Cereceda 👨‍💻</h1>
 
 <p align="center">
  I'm an emphatic,proactive, responsible, social and hard worker full stack developer from Argentina.
