@@ -2,6 +2,10 @@
 
 ## I'm a Full Stack Developer from 🇦🇷
 
+####All my life I've been curious about how the computer programs we use, the websites we visit every day, or the videogames we play are developed. At the beginning of this 2021 I decided to take my curiosity one step further and started to learn about programming on my own. I can say that a passion grew on me so I applied to study at Henry, a Full Stack Development bootcamp where I'm currently learning JavaScript, HTML5, CSS, React, Redux, Node.js, Express, MongoDB and PostgreSQL.
+Since I love learning new stuff, I’m studying React Native on my own.
+I'm also fascinated about data and how we can manipulate it to change the world. That's why I'm taking Data Science lessons at CoderHouse, an online academy where I'll be learning new softwares such as SQL Server, Power BI and Python for Data Science.
+
 ### 📍 **Contact**
 
 <a href="https://www.linkedin.com/in/juancereceda/" > <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a>
