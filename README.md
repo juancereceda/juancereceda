@@ -1,7 +1,7 @@
 <h1 align='center'> Hey there! 👋 I'm Juan Martin Cereceda 👨‍💻</h1>
 
 <p align="center">
- I'm an emphatic,proactive, responsible, social and hard worker full stack developer from Argentina.
+ I'm an emphatic,proactive, responsible, social and hard worker full stack developer from Argentina 🇦🇷.
 </p>
 <p align="center">
 I studied at Henry's Bootcamp, where we learned the PERN stack and now i find myself learning new softwares such as MongoDB, React Native and TypeScript
