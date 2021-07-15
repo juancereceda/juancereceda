@@ -30,15 +30,15 @@ I studied at Henry's Bootcamp, where we learned the PERN stack and now i find my
 
 #### `Countries` 🇦🇷
 
-<a href="https://github.com/juancereceda/PI-Countries-FT13" ><img align="center" src="https://res.cloudinary.com/juancereceda/image/upload/v1625068505/Screen_Shot_2021-06-30_at_12.52.00_ppd8w3.png" width="500" /></a>
+<a href="https://juancereceda-countryapp.vercel.app/" ><img align="center" src="https://res.cloudinary.com/juancereceda/image/upload/v1625068505/Screen_Shot_2021-06-30_at_12.52.00_ppd8w3.png" width="500" /></a>
 
-#### [Link to Deploy](https://juancereceda-countryapp.vercel.app/)
+#### [Link to Repository](https://github.com/juancereceda/PI-Countries-FT13)
 
 #### `Movies` 🎥
 
-<a href="https://github.com/juancereceda/Henry-MovieApp" ><img align="center" src="https://res.cloudinary.com/juancereceda/image/upload/v1625069266/Screen_Shot_2021-06-30_at_13.07.11_qhscz9.png" width="500" /></a>
+<a href="https://juancereceda-movies.vercel.app/" ><img align="center" src="https://res.cloudinary.com/juancereceda/image/upload/v1625069266/Screen_Shot_2021-06-30_at_13.07.11_qhscz9.png" width="500" /></a>
 
-#### [Link to Deploy](https://juancereceda-movies.vercel.app/)
+#### [Link to Repository](https://github.com/juancereceda/Henry-MovieApp)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancereceda)](https://github.com/anuraghazra/github-readme-stats)
