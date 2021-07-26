@@ -15,7 +15,7 @@ I studied at Henry's Bootcamp, where we learned the PERN stack and now i find my
 
 ### 📍 **Skills**
 
-  <code><p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="35"/></a>Javascript </code>
+  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="35"/></a>Javascript </code>
   <code><a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"/></a> HTML5</code>
   <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" > <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="35"/></a> CSS</code>
 <code><a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="35"/></a>React</code>
@@ -24,7 +24,6 @@ I studied at Henry's Bootcamp, where we learned the PERN stack and now i find my
   <code><a href="https://expressjs.com"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" height="35"/></a>ExpressJS</code>
   <code><a href="https://www.postgresql.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="30"/></a>PostgreSQL</code>
  <code><a href="https://www.mongodb.com/"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="35"/></a>MongoDB</code>
-</p>
 
 ### 📍 **My projects**
 
