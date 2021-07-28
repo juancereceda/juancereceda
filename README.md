@@ -43,7 +43,7 @@ I studied at Henry's Bootcamp, where we learned the PERN stack and now i find my
 
 <a href="https://henry-movie-app.vercel.app/" ><img align="center" src="https://res.cloudinary.com/juancereceda/image/upload/v1627265729/Screen_Shot_2021-07-25_at_23.12.21_z77guu.png" width="500" /></a>
 
-#### [Link to Repository](https://github.com/juancereceda/PG-Henry)
+#### [Link to Repository](https://github.com/juancereceda/PG-Henry) (*Work in progress* 🔨)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancereceda)](https://github.com/anuraghazra/github-readme-stats)
