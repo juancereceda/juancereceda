@@ -49,6 +49,8 @@ I studied at Henry's Bootcamp, where we learned the PERN stack and now i find my
 <div display="flex">
 <img align="center" src="https://res.cloudinary.com/juancereceda/image/upload/v1629825669/IMG_3377_utrdlb.png" width="240" />
 <img align="center" src="https://res.cloudinary.com/juancereceda/image/upload/v1629825673/IMG_3378_chcdsu.png" width="240" />
+<img align="center" src="https://res.cloudinary.com/juancereceda/image/upload/v1629825859/IMG_3379_esgahi.png" width="240" />
+<img align="center" src="https://res.cloudinary.com/juancereceda/image/upload/v1629825864/IMG_3380_rtefbu.png" width="240" />
  </div>
 
 #### [Link to Repository](https://github.com/juancereceda/reactNativeMovies) (*Work in progress* 🔨)
