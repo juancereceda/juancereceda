@@ -25,6 +25,8 @@ I studied at Henry's Bootcamp, where we learned the PERN stack and now i find my
   <code><a href="https://www.postgresql.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="30"/></a>PostgreSQL</code>
  <code><a href="https://www.mongodb.com/"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="35"/></a>MongoDB</code>
   <code><a href="https://reactnative.dev/"> <img src="https://res.cloudinary.com/juancereceda/image/upload/v1629826145/222-2224799_react-native-development-react-native-logo-png_p2xthw.png" alt="react-native" height="35"/></a>React Native</code>
+  <code><a href="https://angular.io/"> <img src="https://res.cloudinary.com/juancereceda/image/upload/v1640293441/5847ea22cef1014c0b5e4833_wqqvso.png" alt="angular" height="35"/></a>Angular</code>
+  <code><a href="https://git-scm.com/"> <img src="https://res.cloudinary.com/juancereceda/image/upload/v1640293440/Git-Icon-1788C_wonou4.png" alt="git" height="35"/></a>Git</code>
  
 ### 📍 **My projects**
 
