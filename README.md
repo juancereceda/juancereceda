@@ -16,7 +16,7 @@ I studied at Henry's Bootcamp, where we learned the PERN stack and now i find my
 ### 📍 **Skills**
 
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="35"/></a>Javascript </code>
-  <code><a href="https://www.typescriptlang.org" > <img src="https://www.typescriptlang.org/images/branding/logo-grouping.svg" alt="typescript" height="35"/></a>Typescript </code>
+  <code><a href="https://www.typescriptlang.org" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" alt="typescript" height="35"/></a>Typescript </code>
   <code><a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"/></a> HTML5</code>
   <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" > <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="35"/></a> CSS</code>
 <code><a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="35"/></a>React</code>
