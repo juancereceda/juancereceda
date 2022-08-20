@@ -1,12 +1,5 @@
 <h1 align='center'> Hey there! 👋 I'm Juan Martin Cereceda 👨‍💻</h1>
 
-<p align="center">
- I'm an emphatic,proactive, responsible, social and hard worker full stack developer from Argentina 🇦🇷.
-</p>
-<p align="center">
-I studied at Henry's Bootcamp, where we learned the PERN stack and now i find myself learning new softwares such as MongoDB, Python and TypeScript
-</p>
-
 ### 📍 **Contact**
 
 <a href="https://www.linkedin.com/in/juancereceda/" > <img src="https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt="Linkedin" height="30"/></a>
